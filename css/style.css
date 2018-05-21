@@ -1,0 +1,13 @@
+body {
+  margin-top: 60px;
+}
+
+h1 {
+  color: #323232;
+}
+
+#main {
+  background-color: #fafafa;
+  border-radius: 25px;
+  margin: 0px 80px 80px 80px;
+}

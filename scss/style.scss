@@ -1,0 +1,16 @@
+$gray: #fafafa;
+$darkgray: #323232;
+
+body {
+  margin-top: 60px;
+}
+
+h1 {
+  color: $darkgray;
+}
+
+#main {
+  background-color: $gray;
+  border-radius: 25px;
+  margin: 0px 80px 80px 80px;
+}
